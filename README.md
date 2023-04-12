@@ -2,7 +2,7 @@
 
 Made with Python's template for Battlesnake, and hosted on Repl.
 
-My first attempt with a partner on a Snake AI.
+My first attempt on a Snake AI.
 
 ### TODO ###
 
